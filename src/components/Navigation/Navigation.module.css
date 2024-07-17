@@ -1,0 +1,22 @@
+.nav {
+  display: flex;
+  padding: 0 32px;
+  gap: 12px;
+  height: 64px;
+  align-items: center;
+  box-shadow: 0px 7px 7px -3px rgb(193, 91, 125);
+  background-color: pink;
+}
+.linkItem {
+  text-decoration: none;
+  color: palevioletred;
+  font-weight: bold;
+  transition: box-shadow 0.8s ease-in-out;
+}
+
+.linkItem:hover {
+  box-shadow: 0px 3px 3px rgb(79, 38, 52);
+}
+.linkActive {
+  color: rgb(98, 31, 53);
+}

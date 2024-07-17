@@ -1,0 +1,9 @@
+.btnBack {
+  font-size: 18px;
+  padding: 6px;
+  display: flex;
+  gap: 6px;
+  text-decoration: none;
+  margin-bottom: 8px;
+  color: rgb(140, 25, 63);
+}

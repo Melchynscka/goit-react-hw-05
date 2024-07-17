@@ -1,0 +1,12 @@
+.title {
+  margin-bottom: 26px;
+  padding: 40px 40px 0 20px;
+  color: palevioletred;
+}
+.dataList {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 26px;
+  justify-content: space-around;
+}

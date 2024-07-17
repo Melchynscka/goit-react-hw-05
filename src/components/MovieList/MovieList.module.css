@@ -1,0 +1,30 @@
+.listItem {
+  width: 300px;
+}
+.imgWrapper {
+  height: 364px;
+  width: 100%;
+  overflow: hidden;
+  border-radius: 12px;
+}
+.listItemImg {
+  height: 100%;
+  display: block;
+  object-fit: cover;
+
+  transition: all 0.8s ease-in-out;
+}
+.itemLink {
+  text-decoration: none;
+  color: palevioletred;
+  transition: all 0.8s ease-in-out;
+}
+.itemLink:hover {
+  color: rgb(77, 22, 40);
+}
+.itemLink:hover .listItemImg {
+  transform: scale(1.1);
+}
+.itemTitle {
+  text-align: center;
+}

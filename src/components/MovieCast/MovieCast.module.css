@@ -1,0 +1,10 @@
+.castList {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  box-shadow: 0px 7px 7px -3px rgb(166, 71, 103);
+}
+.castListItem {
+  width: 220px;
+}
