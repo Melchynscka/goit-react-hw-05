@@ -10,9 +10,9 @@
   padding: 12px;
   border-radius: 8px;
   outline: none;
-  border-color: #43592d;
+  border-color: rgb(193, 91, 125);
   font-size: 18px;
-  color: #43592d;
+  color: rgb(193, 91, 125);
 }
 .formBtn {
   padding: 0 18px;
